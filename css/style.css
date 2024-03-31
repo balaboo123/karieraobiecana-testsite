@@ -36,7 +36,7 @@ body {
     align-items: center;
     flex-direction: column;
 
-    row-gap: 4rem;
+    row-gap: 4rem; 
 }
 
 main {
